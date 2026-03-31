@@ -1,4 +1,4 @@
-# student-analysis
+# Mall för datanalys i Pandas
 En mall för elever att träna på pandas och Jupyter Notebook.
 
 ## Syfte
